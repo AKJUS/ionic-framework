@@ -50,7 +50,7 @@
     "@angular/core": "^16.0.0",
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
-    "@angular/platform-server": "^16.0.0",
+    "@angular/platform-server": "^19.2.21",
     "@ionic/eslint-config": "^0.4.0",
     "@ionic/prettier-config": "^2.0.0",
     "@types/node": "^20.14.9",
