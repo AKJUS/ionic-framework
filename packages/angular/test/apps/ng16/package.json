@@ -23,7 +23,7 @@
     "@angular/forms": "^16.0.0",
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
-    "@angular/platform-server": "^16.0.0",
+    "@angular/platform-server": "^19.2.21",
     "@angular/router": "^16.0.0",
     "@ionic/angular": "^7.0.0",
     "@ionic/angular-server": "^7.0.0",
