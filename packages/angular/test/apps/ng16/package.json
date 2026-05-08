@@ -27,9 +27,9 @@
     "@angular/router": "^16.0.0",
     "@ionic/angular": "^7.0.0",
     "@ionic/angular-server": "^7.0.0",
-    "@nguniversal/express-engine": "^16.0.0",
+    "@nguniversal/express-engine": "^16.2.0",
     "core-js": "^2.6.11",
-    "express": "^4.15.2",
+    "express": "^4.22.1",
     "ionicons": "^8.0.13",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
@@ -58,7 +58,7 @@
     "ts-node": "^8.3.0",
     "typescript": "~5.0.2",
     "wait-on": "^5.2.1",
-    "webpack": "^5.61.0",
+    "webpack": "^5.104.1",
     "webpack-cli": "^4.9.2"
   },
   "engines": {
